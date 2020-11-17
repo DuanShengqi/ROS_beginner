@@ -1,2 +1,2 @@
 # ROS_beginner
-ROS学习记录
+ROS学习记录，位于catkin_ws工作空间，beginner_tutorials功能包中的python文件
